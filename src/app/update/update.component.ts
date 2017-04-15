@@ -7,7 +7,7 @@ import { Router,Params,ActivatedRoute} from '@angular/router';
 import 'rxjs/add/operator/switchMap';
 @Component({
   selector: 'app-update',
-  templateUrl: './update.component.html'
+  templateUrl: './update.component.html',
   providers :[EmployeeService]
 })
 export class UpdateComponent implements OnInit {
