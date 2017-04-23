@@ -2,7 +2,7 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
-#Download and install lib.
+# Download and install all dependencies
 Run 'npm install'
 
 ## Development server
